@@ -122,6 +122,249 @@ untitled2/fast:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
+Competition.obj: Competition.cpp.obj
+
+.PHONY : Competition.obj
+
+# target to build an object file
+Competition.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Competition.cpp.obj
+.PHONY : Competition.cpp.obj
+
+Competition.i: Competition.cpp.i
+
+.PHONY : Competition.i
+
+# target to preprocess a source file
+Competition.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Competition.cpp.i
+.PHONY : Competition.cpp.i
+
+Competition.s: Competition.cpp.s
+
+.PHONY : Competition.s
+
+# target to generate assembly for a file
+Competition.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Competition.cpp.s
+.PHONY : Competition.cpp.s
+
+Contract.obj: Contract.cpp.obj
+
+.PHONY : Contract.obj
+
+# target to build an object file
+Contract.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Contract.cpp.obj
+.PHONY : Contract.cpp.obj
+
+Contract.i: Contract.cpp.i
+
+.PHONY : Contract.i
+
+# target to preprocess a source file
+Contract.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Contract.cpp.i
+.PHONY : Contract.cpp.i
+
+Contract.s: Contract.cpp.s
+
+.PHONY : Contract.s
+
+# target to generate assembly for a file
+Contract.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Contract.cpp.s
+.PHONY : Contract.cpp.s
+
+Game.obj: Game.cpp.obj
+
+.PHONY : Game.obj
+
+# target to build an object file
+Game.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Game.cpp.obj
+.PHONY : Game.cpp.obj
+
+Game.i: Game.cpp.i
+
+.PHONY : Game.i
+
+# target to preprocess a source file
+Game.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Game.cpp.i
+.PHONY : Game.cpp.i
+
+Game.s: Game.cpp.s
+
+.PHONY : Game.s
+
+# target to generate assembly for a file
+Game.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Game.cpp.s
+.PHONY : Game.cpp.s
+
+Juego.obj: Juego.cpp.obj
+
+.PHONY : Juego.obj
+
+# target to build an object file
+Juego.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Juego.cpp.obj
+.PHONY : Juego.cpp.obj
+
+Juego.i: Juego.cpp.i
+
+.PHONY : Juego.i
+
+# target to preprocess a source file
+Juego.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Juego.cpp.i
+.PHONY : Juego.cpp.i
+
+Juego.s: Juego.cpp.s
+
+.PHONY : Juego.s
+
+# target to generate assembly for a file
+Juego.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Juego.cpp.s
+.PHONY : Juego.cpp.s
+
+PlayerGame.obj: PlayerGame.cpp.obj
+
+.PHONY : PlayerGame.obj
+
+# target to build an object file
+PlayerGame.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerGame.cpp.obj
+.PHONY : PlayerGame.cpp.obj
+
+PlayerGame.i: PlayerGame.cpp.i
+
+.PHONY : PlayerGame.i
+
+# target to preprocess a source file
+PlayerGame.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerGame.cpp.i
+.PHONY : PlayerGame.cpp.i
+
+PlayerGame.s: PlayerGame.cpp.s
+
+.PHONY : PlayerGame.s
+
+# target to generate assembly for a file
+PlayerGame.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerGame.cpp.s
+.PHONY : PlayerGame.cpp.s
+
+PlayerTeam.obj: PlayerTeam.cpp.obj
+
+.PHONY : PlayerTeam.obj
+
+# target to build an object file
+PlayerTeam.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerTeam.cpp.obj
+.PHONY : PlayerTeam.cpp.obj
+
+PlayerTeam.i: PlayerTeam.cpp.i
+
+.PHONY : PlayerTeam.i
+
+# target to preprocess a source file
+PlayerTeam.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerTeam.cpp.i
+.PHONY : PlayerTeam.cpp.i
+
+PlayerTeam.s: PlayerTeam.cpp.s
+
+.PHONY : PlayerTeam.s
+
+# target to generate assembly for a file
+PlayerTeam.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/PlayerTeam.cpp.s
+.PHONY : PlayerTeam.cpp.s
+
+Players.obj: Players.cpp.obj
+
+.PHONY : Players.obj
+
+# target to build an object file
+Players.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.obj
+.PHONY : Players.cpp.obj
+
+Players.i: Players.cpp.i
+
+.PHONY : Players.i
+
+# target to preprocess a source file
+Players.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.i
+.PHONY : Players.cpp.i
+
+Players.s: Players.cpp.s
+
+.PHONY : Players.s
+
+# target to generate assembly for a file
+Players.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.s
+.PHONY : Players.cpp.s
+
+Team.obj: Team.cpp.obj
+
+.PHONY : Team.obj
+
+# target to build an object file
+Team.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Team.cpp.obj
+.PHONY : Team.cpp.obj
+
+Team.i: Team.cpp.i
+
+.PHONY : Team.i
+
+# target to preprocess a source file
+Team.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Team.cpp.i
+.PHONY : Team.cpp.i
+
+Team.s: Team.cpp.s
+
+.PHONY : Team.s
+
+# target to generate assembly for a file
+Team.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Team.cpp.s
+.PHONY : Team.cpp.s
+
+Transfer.obj: Transfer.cpp.obj
+
+.PHONY : Transfer.obj
+
+# target to build an object file
+Transfer.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Transfer.cpp.obj
+.PHONY : Transfer.cpp.obj
+
+Transfer.i: Transfer.cpp.i
+
+.PHONY : Transfer.i
+
+# target to preprocess a source file
+Transfer.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Transfer.cpp.i
+.PHONY : Transfer.cpp.i
+
+Transfer.s: Transfer.cpp.s
+
+.PHONY : Transfer.s
+
+# target to generate assembly for a file
+Transfer.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Transfer.cpp.s
+.PHONY : Transfer.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +401,33 @@ help:
 	@echo ... untitled2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Competition.obj
+	@echo ... Competition.i
+	@echo ... Competition.s
+	@echo ... Contract.obj
+	@echo ... Contract.i
+	@echo ... Contract.s
+	@echo ... Game.obj
+	@echo ... Game.i
+	@echo ... Game.s
+	@echo ... Juego.obj
+	@echo ... Juego.i
+	@echo ... Juego.s
+	@echo ... PlayerGame.obj
+	@echo ... PlayerGame.i
+	@echo ... PlayerGame.s
+	@echo ... PlayerTeam.obj
+	@echo ... PlayerTeam.i
+	@echo ... PlayerTeam.s
+	@echo ... Players.obj
+	@echo ... Players.i
+	@echo ... Players.s
+	@echo ... Team.obj
+	@echo ... Team.i
+	@echo ... Team.s
+	@echo ... Transfer.obj
+	@echo ... Transfer.i
+	@echo ... Transfer.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

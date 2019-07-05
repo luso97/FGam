@@ -98,6 +98,60 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Competition.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Competition.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Contract.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Contract.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Game.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Game.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Juego.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Juego.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerGame.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Players.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Players.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Team.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Team.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Transfer.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Transfer.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/main.cpp">
 			<Option target="untitled2"/>
 		</Unit>

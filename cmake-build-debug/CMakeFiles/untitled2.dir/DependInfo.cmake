@@ -4,6 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Luis/CLionProjects/untitled2/Competition.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Competition.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Contract.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Contract.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Game.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Game.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Juego.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Juego.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/PlayerGame.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/PlayerTeam.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Players.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Players.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Team.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Team.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/Transfer.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Transfer.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/main.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

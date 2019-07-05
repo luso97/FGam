@@ -247,9 +247,6 @@ Qt5Gui_DIR:PATH=C:/Qt/5.12.1/mingw73_64/lib/cmake/Qt5Gui
 //The directory containing a CMake configuration file for Qt5Widgets.
 Qt5Widgets_DIR:PATH=C:/Qt/5.12.1/mingw73_64/lib/cmake/Qt5Widgets
 
-//The directory containing a CMake configuration file for SQLite3.
-SQLite3_DIR:PATH=SQLite3_DIR-NOTFOUND
-
 //Value Computed by CMake
 untitled2_BINARY_DIR:STATIC=C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug
 
