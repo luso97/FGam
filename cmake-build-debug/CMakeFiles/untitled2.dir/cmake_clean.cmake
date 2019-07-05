@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled2.dir/main.cpp.obj"
+  "CMakeFiles/untitled2.dir/Players.cpp.obj"
   "untitled2.pdb"
   "untitled2.exe"
   "untitled2.exe.manifest"

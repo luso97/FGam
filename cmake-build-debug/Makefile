@@ -122,6 +122,33 @@ untitled2/fast:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
+Players.obj: Players.cpp.obj
+
+.PHONY : Players.obj
+
+# target to build an object file
+Players.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.obj
+.PHONY : Players.cpp.obj
+
+Players.i: Players.cpp.i
+
+.PHONY : Players.i
+
+# target to preprocess a source file
+Players.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.i
+.PHONY : Players.cpp.i
+
+Players.s: Players.cpp.s
+
+.PHONY : Players.s
+
+# target to generate assembly for a file
+Players.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Players.cpp.s
+.PHONY : Players.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... untitled2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Players.obj
+	@echo ... Players.i
+	@echo ... Players.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -1,0 +1,3 @@
+- Make classes for each table and only roll into database when needed
+- Use threads for rolling into database
+- Based on turns

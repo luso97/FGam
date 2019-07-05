@@ -98,6 +98,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Players.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Players.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/main.cpp">
 			<Option target="untitled2"/>
 		</Unit>
