@@ -6,6 +6,8 @@
 #define UNTITLED2_PLAYERS_H
 #include <string>
 #include <rpcdce.h>
+#include "Team.h"
+
 class Players {
 private:
     Team team;
@@ -17,7 +19,9 @@ private:
     int reputation;
     int level;
     int talent;
-    int 
+    int earnings;
+    int head;
+    int id;
 
 };
 
