@@ -10,18 +10,23 @@
 #include <QtCore/QArgument>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QGridLayout>
+#include <QtWidgets/QStackedWidget>
+
 
 class MainWindow : public QMainWindow{
     Q_OBJECT
 private:
     QPushButton *newGame;
-    static QWidget *widget;
+
+
 
 
 public:
+
     MainWindow();
     static void changeState(QLayout *layout);
     void createActionsML();
+    static QStackedWidget *stack;
 };
 
 

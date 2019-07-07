@@ -146,6 +146,12 @@
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/MainWindow.h">
 			<Option target="untitled2"/>
 		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/NewGameLayout.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/NewGameLayout.h">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp">
 			<Option target="untitled2"/>
 		</Unit>

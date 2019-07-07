@@ -3,7 +3,11 @@
 //
 
 #include <QtWidgets/QPushButton>
+#include <iostream>
 #include "MainLayout.h"
+#include "NewGameLayout.h"
+
+
 MainLayout::MainLayout():
 newGame(new QPushButton()),
 loadGame(new QPushButton()) {
@@ -13,12 +17,16 @@ loadGame(new QPushButton()) {
     this->setColumnStretch(0,1);
     this->addWidget(loadGame, 1, 1);
     this->setColumnStretch(1,1);
+    createActions();
 
+}
+void MainLayout::newGameM(){
+    std::cout<<"aver";
+    NewGameLayout *layout=new NewGameLayout();
+    MainWindow::changeState(layout);
+    update();
 }
 void MainLayout::createActions() {
-    connect(newGame, SIGNAL(triggered()), this, SLOT(newGameM()));
+    connect(newGame, SIGNAL(clicked()), this, SLOT(newGameM()));
 }
 
-void MainLayout::newGameM(){
-
-}

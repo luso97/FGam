@@ -3,3 +3,6 @@
 //
 
 #include "Game.h"
+std::vector<Team> Game::getAllTeams() {
+    
+}

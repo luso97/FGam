@@ -7,8 +7,10 @@
 
 
 #include <QtWidgets/QGridLayout>
+#include "MainWindow.h"
 
 class MainLayout : public QGridLayout{
+    Q_OBJECT
 public:
     MainLayout();
     void createActions();

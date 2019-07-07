@@ -297,6 +297,33 @@ MainWindow.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainWindow.cpp.s
 .PHONY : MainWindow.cpp.s
 
+NewGameLayout.obj: NewGameLayout.cpp.obj
+
+.PHONY : NewGameLayout.obj
+
+# target to build an object file
+NewGameLayout.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/NewGameLayout.cpp.obj
+.PHONY : NewGameLayout.cpp.obj
+
+NewGameLayout.i: NewGameLayout.cpp.i
+
+.PHONY : NewGameLayout.i
+
+# target to preprocess a source file
+NewGameLayout.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/NewGameLayout.cpp.i
+.PHONY : NewGameLayout.cpp.i
+
+NewGameLayout.s: NewGameLayout.cpp.s
+
+.PHONY : NewGameLayout.s
+
+# target to generate assembly for a file
+NewGameLayout.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/NewGameLayout.cpp.s
+.PHONY : NewGameLayout.cpp.s
+
 PlayerGame.obj: PlayerGame.cpp.obj
 
 .PHONY : PlayerGame.obj
@@ -514,6 +541,9 @@ help:
 	@echo ... MainWindow.obj
 	@echo ... MainWindow.i
 	@echo ... MainWindow.s
+	@echo ... NewGameLayout.obj
+	@echo ... NewGameLayout.i
+	@echo ... NewGameLayout.s
 	@echo ... PlayerGame.obj
 	@echo ... PlayerGame.i
 	@echo ... PlayerGame.s

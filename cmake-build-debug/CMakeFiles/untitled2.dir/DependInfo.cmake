@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Luis/CLionProjects/untitled2/Juego.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Juego.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/MainLayout.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/MainLayout.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/MainWindow.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/MainWindow.cpp.obj"
+  "C:/Users/Luis/CLionProjects/untitled2/NewGameLayout.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/NewGameLayout.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/PlayerGame.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/PlayerTeam.cpp.obj"
   "C:/Users/Luis/CLionProjects/untitled2/Players.cpp" "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Players.cpp.obj"

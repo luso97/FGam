@@ -8,8 +8,11 @@
 
 #include "Team.h"
 #include "Competition.h"
+#include <vector>
 
 class Game {
+public:
+    static std::vector<Team> getAllTeams();
 private:
     Competition comp;
     Team team1;
