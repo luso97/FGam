@@ -5,8 +5,8 @@
 #ifndef UNTITLED2_PLAYERS_H
 #define UNTITLED2_PLAYERS_H
 #include <string>
-#include <rpcdce.h>
 #include "Team.h"
+#include "Contract.h"
 
 class Players {
 private:

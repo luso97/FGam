@@ -122,6 +122,19 @@ untitled2/fast:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/build
 .PHONY : untitled2/fast
 
+#=============================================================================
+# Target rules for targets named untitled2_autogen
+
+# Build rule for target.
+untitled2_autogen: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 untitled2_autogen
+.PHONY : untitled2_autogen
+
+# fast build rule for target.
+untitled2_autogen/fast:
+	$(MAKE) -f CMakeFiles\untitled2_autogen.dir\build.make CMakeFiles/untitled2_autogen.dir/build
+.PHONY : untitled2_autogen/fast
+
 Competition.obj: Competition.cpp.obj
 
 .PHONY : Competition.obj
@@ -229,6 +242,60 @@ Juego.s: Juego.cpp.s
 Juego.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Juego.cpp.s
 .PHONY : Juego.cpp.s
+
+MainLayout.obj: MainLayout.cpp.obj
+
+.PHONY : MainLayout.obj
+
+# target to build an object file
+MainLayout.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainLayout.cpp.obj
+.PHONY : MainLayout.cpp.obj
+
+MainLayout.i: MainLayout.cpp.i
+
+.PHONY : MainLayout.i
+
+# target to preprocess a source file
+MainLayout.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainLayout.cpp.i
+.PHONY : MainLayout.cpp.i
+
+MainLayout.s: MainLayout.cpp.s
+
+.PHONY : MainLayout.s
+
+# target to generate assembly for a file
+MainLayout.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainLayout.cpp.s
+.PHONY : MainLayout.cpp.s
+
+MainWindow.obj: MainWindow.cpp.obj
+
+.PHONY : MainWindow.obj
+
+# target to build an object file
+MainWindow.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainWindow.cpp.obj
+.PHONY : MainWindow.cpp.obj
+
+MainWindow.i: MainWindow.cpp.i
+
+.PHONY : MainWindow.i
+
+# target to preprocess a source file
+MainWindow.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainWindow.cpp.i
+.PHONY : MainWindow.cpp.i
+
+MainWindow.s: MainWindow.cpp.s
+
+.PHONY : MainWindow.s
+
+# target to generate assembly for a file
+MainWindow.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/MainWindow.cpp.s
+.PHONY : MainWindow.cpp.s
 
 PlayerGame.obj: PlayerGame.cpp.obj
 
@@ -392,6 +459,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+untitled2_autogen/mocs_compilation.obj: untitled2_autogen/mocs_compilation.cpp.obj
+
+.PHONY : untitled2_autogen/mocs_compilation.obj
+
+# target to build an object file
+untitled2_autogen/mocs_compilation.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj
+.PHONY : untitled2_autogen/mocs_compilation.cpp.obj
+
+untitled2_autogen/mocs_compilation.i: untitled2_autogen/mocs_compilation.cpp.i
+
+.PHONY : untitled2_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+untitled2_autogen/mocs_compilation.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.i
+.PHONY : untitled2_autogen/mocs_compilation.cpp.i
+
+untitled2_autogen/mocs_compilation.s: untitled2_autogen/mocs_compilation.cpp.s
+
+.PHONY : untitled2_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+untitled2_autogen/mocs_compilation.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.s
+.PHONY : untitled2_autogen/mocs_compilation.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -401,6 +495,7 @@ help:
 	@echo ... untitled2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... untitled2_autogen
 	@echo ... Competition.obj
 	@echo ... Competition.i
 	@echo ... Competition.s
@@ -413,6 +508,12 @@ help:
 	@echo ... Juego.obj
 	@echo ... Juego.i
 	@echo ... Juego.s
+	@echo ... MainLayout.obj
+	@echo ... MainLayout.i
+	@echo ... MainLayout.s
+	@echo ... MainWindow.obj
+	@echo ... MainWindow.i
+	@echo ... MainWindow.s
 	@echo ... PlayerGame.obj
 	@echo ... PlayerGame.i
 	@echo ... PlayerGame.s
@@ -431,6 +532,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... untitled2_autogen/mocs_compilation.obj
+	@echo ... untitled2_autogen/mocs_compilation.i
+	@echo ... untitled2_autogen/mocs_compilation.s
 .PHONY : help
 
 

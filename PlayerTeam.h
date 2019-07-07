@@ -8,6 +8,7 @@
 
 #include "Players.h"
 #include "Team.h"
+#include "Transfer.h"
 
 class PlayerTeam {
 private:
