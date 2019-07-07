@@ -7,6 +7,7 @@
 
 
 #include "Team.h"
+#include "Players.h"
 
 class Competition {
 private:

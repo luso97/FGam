@@ -27,6 +27,7 @@
 					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/include"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include/QtWidgets"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include/QtGui"/>
@@ -57,6 +58,7 @@
 					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/include"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include/QtWidgets"/>
 					<Add directory="C:/Qt/5.12.1/mingw73_64/include/QtGui"/>
@@ -97,6 +99,16 @@
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="untitled2_autogen">
+				<Option working_dir="C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled2_autogen"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Competition.cpp">
 			<Option target="untitled2"/>
@@ -120,6 +132,18 @@
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Juego.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/MainLayout.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/MainLayout.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/MainWindow.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/MainWindow.h">
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp">
@@ -150,6 +174,9 @@
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/Transfer.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/mocs_compilation.cpp">
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/Luis/CLionProjects/untitled2/main.cpp">

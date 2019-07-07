@@ -196,6 +196,48 @@ CMakeFiles/untitled2.dir/Juego.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/Juego.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Luis\CLionProjects\untitled2\Juego.cpp -o CMakeFiles\untitled2.dir\Juego.cpp.s
 
+CMakeFiles/untitled2.dir/MainWindow.cpp.obj: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/MainWindow.cpp.obj: CMakeFiles/untitled2.dir/includes_CXX.rsp
+CMakeFiles/untitled2.dir/MainWindow.cpp.obj: ../MainWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled2.dir/MainWindow.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled2.dir\MainWindow.cpp.obj -c C:\Users\Luis\CLionProjects\untitled2\MainWindow.cpp
+
+CMakeFiles/untitled2.dir/MainWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/MainWindow.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Luis\CLionProjects\untitled2\MainWindow.cpp > CMakeFiles\untitled2.dir\MainWindow.cpp.i
+
+CMakeFiles/untitled2.dir/MainWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/MainWindow.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Luis\CLionProjects\untitled2\MainWindow.cpp -o CMakeFiles\untitled2.dir\MainWindow.cpp.s
+
+CMakeFiles/untitled2.dir/MainLayout.cpp.obj: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/MainLayout.cpp.obj: CMakeFiles/untitled2.dir/includes_CXX.rsp
+CMakeFiles/untitled2.dir/MainLayout.cpp.obj: ../MainLayout.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled2.dir/MainLayout.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled2.dir\MainLayout.cpp.obj -c C:\Users\Luis\CLionProjects\untitled2\MainLayout.cpp
+
+CMakeFiles/untitled2.dir/MainLayout.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/MainLayout.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Luis\CLionProjects\untitled2\MainLayout.cpp > CMakeFiles\untitled2.dir\MainLayout.cpp.i
+
+CMakeFiles/untitled2.dir/MainLayout.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/MainLayout.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Luis\CLionProjects\untitled2\MainLayout.cpp -o CMakeFiles\untitled2.dir\MainLayout.cpp.s
+
+CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj: CMakeFiles/untitled2.dir/flags.make
+CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj: CMakeFiles/untitled2.dir/includes_CXX.rsp
+CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj: untitled2_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled2.dir\untitled2_autogen\mocs_compilation.cpp.obj -c C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\untitled2_autogen\mocs_compilation.cpp
+
+CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\untitled2_autogen\mocs_compilation.cpp > CMakeFiles\untitled2.dir\untitled2_autogen\mocs_compilation.cpp.i
+
+CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\untitled2_autogen\mocs_compilation.cpp -o CMakeFiles\untitled2.dir\untitled2_autogen\mocs_compilation.cpp.s
+
 # Object files for target untitled2
 untitled2_OBJECTS = \
 "CMakeFiles/untitled2.dir/main.cpp.obj" \
@@ -207,7 +249,10 @@ untitled2_OBJECTS = \
 "CMakeFiles/untitled2.dir/PlayerTeam.cpp.obj" \
 "CMakeFiles/untitled2.dir/Transfer.cpp.obj" \
 "CMakeFiles/untitled2.dir/PlayerGame.cpp.obj" \
-"CMakeFiles/untitled2.dir/Juego.cpp.obj"
+"CMakeFiles/untitled2.dir/Juego.cpp.obj" \
+"CMakeFiles/untitled2.dir/MainWindow.cpp.obj" \
+"CMakeFiles/untitled2.dir/MainLayout.cpp.obj" \
+"CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj"
 
 # External object files for target untitled2
 untitled2_EXTERNAL_OBJECTS =
@@ -222,6 +267,9 @@ untitled2.exe: CMakeFiles/untitled2.dir/PlayerTeam.cpp.obj
 untitled2.exe: CMakeFiles/untitled2.dir/Transfer.cpp.obj
 untitled2.exe: CMakeFiles/untitled2.dir/PlayerGame.cpp.obj
 untitled2.exe: CMakeFiles/untitled2.dir/Juego.cpp.obj
+untitled2.exe: CMakeFiles/untitled2.dir/MainWindow.cpp.obj
+untitled2.exe: CMakeFiles/untitled2.dir/MainLayout.cpp.obj
+untitled2.exe: CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj
 untitled2.exe: CMakeFiles/untitled2.dir/build.make
 untitled2.exe: C:/Qt/5.12.1/mingw73_64/lib/libQt5Widgetsd.a
 untitled2.exe: C:/Qt/5.12.1/mingw73_64/lib/libQt5Guid.a
@@ -229,7 +277,7 @@ untitled2.exe: C:/Qt/5.12.1/mingw73_64/lib/libQt5Cored.a
 untitled2.exe: CMakeFiles/untitled2.dir/linklibs.rsp
 untitled2.exe: CMakeFiles/untitled2.dir/objects1.rsp
 untitled2.exe: CMakeFiles/untitled2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable untitled2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Luis\CLionProjects\untitled2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable untitled2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

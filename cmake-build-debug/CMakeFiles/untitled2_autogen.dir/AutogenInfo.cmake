@@ -1,0 +1,29 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "4")
+set(AM_VERBOSITY "")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "C:/Users/Luis/CLionProjects/untitled2")
+set(AM_CMAKE_BINARY_DIR "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "C:/Users/Luis/CLionProjects/untitled2")
+set(AM_CMAKE_CURRENT_BINARY_DIR "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen")
+set(AM_INCLUDE_DIR "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/include")
+# Files
+set(AM_SOURCES "C:/Users/Luis/CLionProjects/untitled2/Competition.cpp;C:/Users/Luis/CLionProjects/untitled2/Contract.cpp;C:/Users/Luis/CLionProjects/untitled2/Game.cpp;C:/Users/Luis/CLionProjects/untitled2/Juego.cpp;C:/Users/Luis/CLionProjects/untitled2/MainLayout.cpp;C:/Users/Luis/CLionProjects/untitled2/MainWindow.cpp;C:/Users/Luis/CLionProjects/untitled2/PlayerGame.cpp;C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.cpp;C:/Users/Luis/CLionProjects/untitled2/Players.cpp;C:/Users/Luis/CLionProjects/untitled2/Team.cpp;C:/Users/Luis/CLionProjects/untitled2/Transfer.cpp;C:/Users/Luis/CLionProjects/untitled2/main.cpp")
+set(AM_HEADERS "C:/Users/Luis/CLionProjects/untitled2/Competition.h;C:/Users/Luis/CLionProjects/untitled2/Contract.h;C:/Users/Luis/CLionProjects/untitled2/Game.h;C:/Users/Luis/CLionProjects/untitled2/Juego.h;C:/Users/Luis/CLionProjects/untitled2/MainLayout.h;C:/Users/Luis/CLionProjects/untitled2/MainWindow.h;C:/Users/Luis/CLionProjects/untitled2/PlayerGame.h;C:/Users/Luis/CLionProjects/untitled2/PlayerTeam.h;C:/Users/Luis/CLionProjects/untitled2/Players.h;C:/Users/Luis/CLionProjects/untitled2/Team.h;C:/Users/Luis/CLionProjects/untitled2/Transfer.h")
+set(AM_SETTINGS_FILE "C:/Users/Luis/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR 5)
+set(AM_QT_MOC_EXECUTABLE "C:/Qt/5.12.1/mingw73_64/bin/moc.exe")
+set(AM_QT_UIC_EXECUTABLE "")
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_GUI_LIB;QT_WIDGETS_LIB")
+set(AM_MOC_INCLUDES "C:/Qt/5.12.1/mingw73_64/include;C:/Qt/5.12.1/mingw73_64/include/QtWidgets;C:/Qt/5.12.1/mingw73_64/include/QtGui;C:/Qt/5.12.1/mingw73_64/include/QtANGLE;C:/Qt/5.12.1/mingw73_64/include/QtCore;C:/Qt/5.12.1/mingw73_64/./mkspecs/win32-g++")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/g++.exe;-dM;-E;-c;C:/Program Files/JetBrains/CLion 2019.1/bin/cmake/win/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp")
